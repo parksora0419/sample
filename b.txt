@@ -4,7 +4,11 @@
 4th commit
 5th commit
 6th commit in hotfix
+<<<<<<< HEAD
 9th commit
 10th commit in hotfix1
 12th commit in hotfix2
 18th commit in master
+=======
+8th commit
+>>>>>>> 27a26c65b4c6d232e48ad5ad08eb6164c44e9898
